@@ -33,8 +33,8 @@ Enter the input fields required -> petrol price per litre, number of days of tra
 
 ## Screenshots:
 
-![image](https://user-images.githubusercontent.com/61402750/169558126-34ecc015-12ac-492f-99eb-f3a7a243ae6f.png)
+<img src="https://user-images.githubusercontent.com/61402750/169558126-34ecc015-12ac-492f-99eb-f3a7a243ae6f.png" width="250" height="450">
+<img src="https://user-images.githubusercontent.com/61402750/169558287-efefb116-b7fc-49d3-80b8-ce26d43feeee.png" width="250" height="450">
 
-![image](https://user-images.githubusercontent.com/61402750/169558287-efefb116-b7fc-49d3-80b8-ce26d43feeee.png)
 
 
