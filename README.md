@@ -1,16 +1,34 @@
-# petrol
+# Petrol Expenses Calculator
 
-A new Flutter project.
+This Flutter application takes input of the price of the petrol and the distance travelled everyday and calculates the expenses per month.
 
-## Getting Started
+The aim of this project is to automate the calculation part of the expenses.
 
-This project is a starting point for a Flutter application.
+##How to Install and Run the project:
 
-A few resources to get you started if this is your first Flutter project:
+Download the project files into your device.
+From the command line:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Enter cd [project]
+Run flutter build apk --split-per-abi
+(The flutter build command defaults to --release.)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Follow these steps to install the APK on a connected Android device.
+
+From the command line:
+
+Connect your Android device to your computer with a USB cable.
+Enter cd [project].
+Run flutter install.
+
+##Using the app:
+
+Enter the input fields required -> petrol price per litre, number of days of travel and the distance of travel. Also the number of days of travel in a week.
+
+##Screenshots:
+
+![image](https://user-images.githubusercontent.com/61402750/169558126-34ecc015-12ac-492f-99eb-f3a7a243ae6f.png)
+
+![image](https://user-images.githubusercontent.com/61402750/169558287-efefb116-b7fc-49d3-80b8-ce26d43feeee.png)
+
+
